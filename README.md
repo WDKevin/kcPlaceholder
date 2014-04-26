@@ -10,3 +10,6 @@ The purpose of kcPlaceholder is to introduce this functionality to browsers that
 
 ## Usage
 kcPlaceholder requires no initialization or modification to your current code. Simply load the .js file (and the jQuery libary) to your project and your existing placeholder tags will be functional in browsers that did not previously support them.
+
+## Example
+http://wdkevin.github.io/kcPlaceholder/
